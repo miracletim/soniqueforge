@@ -9,8 +9,6 @@ import android.widget.Button;
 import  android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.soniqueforge.soniqueforge.network.InternetConnectivity;
-
 public class PlayerActivity extends AppCompatActivity{
     private TextView radioName, radioFreq, radioLocation, tvRadioStatus;
     private Button playStopBtn;
@@ -34,9 +32,6 @@ public class PlayerActivity extends AppCompatActivity{
         super.onCreate(savedInstanceState);
 
         setContentView(R.layout.activity_player);
-        
-        InternetConnectivity internetConnectivity = null;
-        internetConnectivity.isInternetConnected(PlayerActivity.this);
 
         radioName = findViewById(R.id.player_tvRadioName);
         radioFreq = findViewById(R.id.player_tvRadioFrequency);
