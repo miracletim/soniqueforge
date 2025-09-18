@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Virgin Radio</string>
+    <string name="btnPlayStop">Play</string>
+    <string name="stationLogo">Station Logo</string>
+</resources>
