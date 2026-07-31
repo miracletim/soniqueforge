@@ -1,4 +1,4 @@
-# Sonique Forge 🎵
+# Sonique Forge 
 
 **Sonique Forge** is a sleek, lightweight, and native Android radio streaming application. Built with pure Java, it offers a seamless and distraction-free listening experience with a curated list of 10 high-quality local radio stations.
 
@@ -12,7 +12,7 @@
   <img src="https://github.com/miracletim/assets/blob/main/soniqueforge/Screenshot_20250918_182457.png" alt="App Screenshot" width="300"/>
 </p>
 
-## ✨ Features
+##  Features
 
 *   **10 Curated Stations:** Enjoy a hand-picked selection of 10 local radio stations covering music, news, and talk.
 *   **Native Performance:** Built from the ground up in Java for a smooth and responsive Android experience.
@@ -20,7 +20,7 @@
 *   **Background Playback:** Keep the music going while using other apps or with your screen off.
 *   **Basic Controls:** Play, pause, and adjust volume with ease.
 
-## 📦 Download & Install
+##  Download & Install
 
 1.  Navigate to the [Releases](https://github.com/miracletim/soniqueforge/releases) section of this GitHub repository.
 2.  Download the latest APK file (e.g., `app-release.apk` or `sonique-forge-v1.0.0-alpha.apk`).
@@ -30,7 +30,7 @@
 
 > **Note:** This is an **alpha** release. It is stable for daily use but may contain minor bugs. Your feedback is invaluable!
 
-## 🚀 Getting Started
+##  Getting Started
 
 1.  **Install** the APK as described above.
 2.  **Open** the Sonique Forge app from your app drawer.
@@ -38,7 +38,7 @@
 4.  **Tap** on any station to start streaming immediately.
 5.  **Use** the playback controls at the bottom to play, pause, or adjust volume.
 
-## 🛠️ Building from Source
+##  Building from Source
 
 If you are a developer and want to build the project yourself, follow these steps:
 
@@ -65,23 +65,23 @@ If you are a developer and want to build the project yourself, follow these step
 *   **Target SDK:** API 34 (Android 14)
 *   **Media Playback:** [Android MediaPlayer API](https://developer.android.com/guide/topics/media/mediaplayer)
 
-## 🤝 Contributing
+##  Contributing
 
 As this is an early-stage project, I am not accepting direct code contributions yet. However, feedback and suggestions are highly encouraged!
 
 1.  **Report Bugs:** Found a bug? Please open an [Issue](https://github.com/miracletim/soniqueforge/issues) and describe the problem in detail.
 2.  **Request Features:** Have an idea for a new feature or station? Create an [Issue](https://github.com/miracletim/soniqueforge/issues) and label it as a "feature request".
 
-## 📄 License
+##  License
 
 This project is licensed under the **GNU General Public License v3.0**. See the [LICENSE](LICENSE) file for details.
 
 > **Important Note on Stations:** The stream URLs included in this app are for demonstration and personal use. Please ensure you have the right to distribute and use any included stream links before forking or distributing this project.
 
-## 🧑‍💻 Developer
+##  Developer
 
 **Your Name** / [@miracletim](https://github.com/miracletim)
 
 ---
 
-**Enjoy the tunes!** 🎶
+**Enjoy the tunes!** 
